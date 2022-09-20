@@ -1,0 +1,19 @@
+:root {
+    --backdrop: #EDE8E8;
+    --header-color: #994636;
+    --text-color: #282B28;
+    --header-text: #011936;
+    --navlink-color: #EDB183;
+    --text-link-color: #1A936F;
+    --footer-color: #EDB183;
+    --bar-color: #231123;
+    --footer-text: #5A2328;
+}
+
+* {
+    font-family: 'PlayfairDisplay';
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
